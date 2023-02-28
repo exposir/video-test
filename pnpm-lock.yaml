@@ -990,13 +990,6 @@ packages:
       '@types/react': 17.0.53
       '@types/react-router': 5.1.20
 
-  /@types/react-router-config/5.0.6:
-    resolution: {integrity: sha512-db1mx37a1EJDf1XeX8jJN7R3PZABmJQXR8r28yUjVMFSjkmnQo6X6pOEEmNl+Tp2gYQOGPdYbFIipBtdElZ3Yg==}
-    dependencies:
-      '@types/history': 4.7.11
-      '@types/react': 17.0.53
-      '@types/react-router': 5.1.20
-
   /@types/react-router-dom/5.1.7:
     resolution: {integrity: sha512-D5mHD6TbdV/DNHYsnwBTv+y73ei+mMjrkGrla86HthE4/PVvL1J94Bu3qABU+COXzpL23T1EZapVVpwHuBXiUg==}
     dependencies:
@@ -1432,7 +1425,7 @@ packages:
     dependencies:
       '@types/react': 16.14.35
       '@types/react-dom': 16.9.18
-      '@types/react-router-config': 5.0.6
+      '@types/react-router-config': 5.0.2
       '@umijs/runtime': 3.5.37_react@16.14.0
       react: 16.14.0
       react-dom: 16.14.0_react@16.14.0
@@ -1448,7 +1441,7 @@ packages:
     dependencies:
       '@types/react': 16.14.35
       '@types/react-dom': 16.9.18
-      '@types/react-router-config': 5.0.6
+      '@types/react-router-config': 5.0.2
       '@umijs/runtime': 3.5.37_react@16.14.0
       react: 16.14.0
       react-dom: 16.14.0_react@16.14.0

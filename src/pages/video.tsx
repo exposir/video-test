@@ -12,8 +12,8 @@ const videoList = [
     url: 'https://testingcf.jsdelivr.net/gh/nj-lizhi/kn-2014-io@main/video/roadmap.js',
   },
   {
-    name: '薄熙来',
-    url: 'https://testingcf.jsdelivr.net/gh/exposir/video-test@main/video/roadmap.js',
+    name: '2015-看见北京站直播实录',
+    url: 'https://testingcf.jsdelivr.net/gh/nj-lizhi/kn-2015-kj@main/video/roadmap.js',
   },
   {
     name: '2018-洗心革面跨年演唱会',
