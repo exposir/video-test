@@ -5,7 +5,7 @@ import Hls from 'hls.js';
 const videoList = [
   {
     name: '2009-我爱南京跨年演唱会',
-    url: 'https://testingcf.jsdelivr.net/gh/nj-lizhi/kn-2009-wanj@main/video/roadmap.js',
+    url: 'https://testingcf.jsdelivr.net/gh/exposir/video-test@main/video/roadmap.js',
   },
   {
     name: '2014-IO跨年演唱会',
